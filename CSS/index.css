@@ -105,6 +105,18 @@
 .article-open {
   height: 400px;
 }
+.readButton {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  font-size: 12px;
+  color: grey;
+  cursor: pointer;
+  background-color: white;
+}
+.article-hide {
+  display: none;
+}
 html,
 body {
   margin: 0;
